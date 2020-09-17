@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\bin\Debug\netcoreapp3.1\Funcion Numeros Primos.exe
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\bin\Debug\netcoreapp3.1\Funcion Numeros Primos.deps.json
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\bin\Debug\netcoreapp3.1\Funcion Numeros Primos.runtimeconfig.json
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\bin\Debug\netcoreapp3.1\Funcion Numeros Primos.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\bin\Debug\netcoreapp3.1\Funcion Numeros Primos.dll
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\bin\Debug\netcoreapp3.1\Funcion Numeros Primos.pdb
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\obj\Debug\netcoreapp3.1\Funcion Numeros Primos.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\obj\Debug\netcoreapp3.1\Funcion Numeros Primos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\obj\Debug\netcoreapp3.1\Funcion Numeros Primos.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\obj\Debug\netcoreapp3.1\Funcion Numeros Primos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\obj\Debug\netcoreapp3.1\Funcion Numeros Primos.dll
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\obj\Debug\netcoreapp3.1\Funcion Numeros Primos.pdb
+C:\Users\LENOVO\Desktop\PROGRAMS CODE\Funcion Numeros Primos\obj\Debug\netcoreapp3.1\Funcion Numeros Primos.genruntimeconfig.cache
